@@ -1,4 +1,4 @@
-const VERIFICATION_TOKEN = matildakayeburnham;
+const VERIFICATION_TOKEN = "matildakayeburnhamdadlovesyoualwaysandforever";
 
 async function sha256Hex(text) {
   const data = new TextEncoder().encode(text);
